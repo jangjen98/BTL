@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "80ffccfd55f8593aa3717cd3"
+  },
+  "company_id": {
+    "$oid": "66ffccfd55f8593aa3717ab6"
+  },
+  "service_id": {
+    "$oid": "603dcb12345bc789d9012345"
+  },
+  "start_date": {
+    "$date": "2024-01-01T00:00:00.000Z"
+  },
+  "unit_price": 1050,
+  "total_amount": 50000,
+  "usage_days": 20,
+  "total_days_in_month": 30
+}]

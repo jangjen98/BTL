@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "66ffccfd55f8593aa3717ab6"
+  },
+  "company_name": "Công ty toàn cầu xanh",
+  "tax_code": "0123456789",
+  "capital": 500000000,
+  "business_field": "IT",
+  "employees_count": 50,
+  "office_address": {
+    "floor": 10,
+    "room_number": "1001"
+  },
+  "phone": "0702750320",
+  "rental_area": 200,
+  "services": [
+    {
+      "service_id": {
+        "$oid": "603dcb12345bc789d9012345"
+      },
+      "start_date": "2024-01-01",
+      "unit_price": 1000
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "66ffccfd55f8593aa3717ab7"
+  },
+  "company_name": "Công ty KCL",
+  "tax_code": "987654321",
+  "capital": 300000000,
+  "business_field": "Thương mại",
+  "employees_count": 20,
+  "office_address": {
+    "floor": 5,
+    "room_number": "503"
+  },
+  "phone": "0989066289",
+  "rental_area": 150,
+  "services": [
+    {
+      "service_id": {
+        "$oid": "603dcb12345bc789d9012345"
+      },
+      "start_date": "2024-02-01",
+      "unit_price": 1500
+    }
+  ]
+}]

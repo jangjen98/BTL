@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "90ffccfd55f8593aa3717cd6"
+  },
+  "employee_id": {
+    "$oid": "70ffccfd55f8593aa3717cd1"
+  },
+  "entry_time": "2024-01-16T09:00:00Z",
+  "exit_time": "2024-01-16T18:00:00Z",
+  "location": "Hầm B1"
+},
+{
+  "_id": {
+    "$oid": "90ffccfd55f8593aa3717cd5"
+  },
+  "employee_id": {
+    "$oid": "70ffccfd55f8593aa3717cd2"
+  },
+  "entry_time": "2024-01-15T08:00:00Z",
+  "exit_time": "2024-01-15T17:00:00Z",
+  "location": "Tầng 1"
+},
+{
+  "_id": {
+    "$oid": "66ffdf76c117315728565f5f"
+  },
+  "employee_id": {
+    "$oid": "60ccf8bc12345aabbcc12346"
+  },
+  "entry_time": "2024-10-04T09:00:00Z",
+  "exit_time": "2024-10-04T17:00:00Z",
+  "location": "Tầng 2"
+}]

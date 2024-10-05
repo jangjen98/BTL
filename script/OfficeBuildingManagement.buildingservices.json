@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "603dcb12345bc789d9012345"
+  },
+  "service_code": "DV001",
+  "service_name": "Vệ sinh",
+  "service_type": "bắt buộc",
+  "base_price": 1000,
+  "price_increase_rate": 0.05
+},
+{
+  "_id": {
+    "$oid": "603dcb12345bc789d9012346"
+  },
+  "service_code": "DV002",
+  "service_name": "Bảo vệ",
+  "service_type": "bắt buộc",
+  "base_price": 2000,
+  "price_increase_rate": 0.05
+},
+{
+  "_id": {
+    "$oid": "603dcb12345bc789d9012347"
+  },
+  "service_code": "DV003",
+  "service_name": "Trông giữ xe",
+  "service_type": "không bắt buộc",
+  "base_price": 500,
+  "price_increase_rate": 0.05
+}]

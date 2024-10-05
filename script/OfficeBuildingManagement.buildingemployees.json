@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "70ffccfd55f8593aa3717cd2"
+  },
+  "employee_code": "NVB002",
+  "full_name": "Pham Thi D",
+  "birthdate": "1990-09-15",
+  "address": "456 đường B",
+  "phone": "0912345678",
+  "level": 3,
+  "position": "Vệ sinh",
+  "services_supervised": [
+    {
+      "$oid": "603dcb12345bc789d9012345"
+    }
+  ],
+  "salary_rate": 0.015
+},
+{
+  "_id": {
+    "$oid": "67010d87b8f539d2e3c68af6"
+  },
+  "employee_code": "NVB003",
+  "full_name": "Tran Van E",
+  "birthdate": {
+    "$date": "1988-04-20T00:00:00.000Z"
+  },
+  "address": "789 đường C",
+  "phone": "0913456789",
+  "level": 4,
+  "position": "Bảo vệ",
+  "services_supervised": [],
+  "salary_rate": 0.012,
+  "__v": 0
+}]
